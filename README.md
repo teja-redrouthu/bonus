@@ -1,8 +1,8 @@
 ## Setting up Twitter Developer Account and Generate API Keys
 ### Creating a new account / signing into an existing account
-- I've already an existing X account
+- I've already an existing X account. Click [here](https://x.com/i/flow/login) to signup if you don't have one.
 ### Sign up for a Twitter Developer Account
-- Navigate to the Twitter Developer Platform
+- Navigate to the Twitter Developer Platform. Click [here](https://developer.x.com/en)
 - Sign up for a Developer account and create a project
 - I've a default project and now let's generate the keys inside the app.
 ### Generating API keys
@@ -25,7 +25,7 @@
 ## Interacting with Twitter API
 ### Posting a new Tweet
 - Let's post a tweet using  POST statuses/update endpoint of the Twitter API 
-- We can use Python to say a message "Hello from Twitter API"
+- We can use Python to tweet regarding a movie release update 
 
 ![image](https://github.com/user-attachments/assets/299198f9-0286-428a-bc8e-71545050fe1a)
 
@@ -40,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/5c9592d5-41ee-426a-8214-7e77a2d114a0)
 
 ### Deleting a tweet
-- Now using python code, deleting a tweet can be possible by passing the tweet ID
+- Now using python code, deleting a tweet can be possible by passing the tweet ID. Let me delete the tweet that was posted initially.
 
 ![image](https://github.com/user-attachments/assets/086867bc-1da8-4d0a-87e9-44b814a1ce3f)
 
