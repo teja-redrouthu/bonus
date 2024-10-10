@@ -47,3 +47,8 @@
 - Tweet got deleted!
 
 ![image](https://github.com/user-attachments/assets/1e6a204e-e05b-426c-9ec4-8c174d0488c0)
+
+## Push the code files and commint as shown in the commands
+
+![image](https://github.com/user-attachments/assets/2d8a7d51-4118-4bcf-9cbe-6aedad4f22db)
+
