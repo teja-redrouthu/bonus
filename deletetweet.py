@@ -1,11 +1,9 @@
 import tweepy
-consumer_key = 'ZpDzaMMj2z7ksWaD4FK0e6sz8'
-consumer_secret = 'k2For37Wojb52mkjQKBJAUJX0PEzOQ5bdnJQw0scHLzTabW20q'
-access_token = '1067655783544872962-gaI60rFoAKI0No5Gj1wSk9ZrAgprl9'
-access_token_secret = 'jS1cSBm4IUj3xeqrLHuudeuaXFN6VwikUmD4sFPWDELKO'
-
-
-bearer_token="AAAAAAAAAAAAAAAAAAAAANNWwQEAAAAAJiF%2BNsV5Ha12W0HvW%2Bvys4n1KaM%3DfaMCTSapcP4a8Kd03iUSrrGZbmOSHUZhHMGyRLS1YBWDNd22qK"
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
+bearer_token= ''
 
 # Authenticate to Twitter using OAuth1
 def authenticate_twitter_api():
